@@ -72,7 +72,7 @@ Enhanced a customer-facing inventory system with robust new features:
 ## 🧑‍💻 Contact & Access
 If you're a recruiter or collaborator and would like to view any source code for review purposes:
 - 📧 Email: *[k89kirby@gmail.com]*  
-- 💬 GitHub: [kyle-kirby] — message or open an issue in this repo
+- 💬 GitHub: [[kyle-kirby](https://github.com/kyle-kirby)] — message or open an issue in this repo
 
 ---
 
