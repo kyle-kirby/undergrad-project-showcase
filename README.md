@@ -64,7 +64,7 @@ Enhanced a customer-facing inventory system with robust new features:
 - Sample inventory with validation (min/max constraints)  
 - “Buy Now” functionality  
 - Unit testing and validator cleanup  
-> 📁 Source code is private. Please contact for review access.
+> 📁 Source code is private. Please contact for review access.  
 > 🖼️ Includes repo graph image (available privately).
 
 ---
